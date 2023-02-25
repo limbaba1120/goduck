@@ -84,7 +84,7 @@ Determining the weakness and strength between two products in different environm
 
 ### On farm
 <p align="center">
-<img src="./imgs/farm_pre_map1.PNG"  width="40%" height="5%">
+<img src="/imgs/farm_pre_map1.PNG"  width="40%" height="5%">
 <figcaption align="center"><b>Fig. 5 - Map of first testing on farm</b></figcaption>
 </p>
 <p align="center">
