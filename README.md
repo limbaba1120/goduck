@@ -5,15 +5,6 @@
 
 ### Gwangyeok Kim 🐝
 - **Chonnam National University**
-확장
-README.md
-6KB
-﻿
-
-<h2>Team Member :smiley:</h2> 
-
-### Gwangyeok Kim 🐝
-- **Chonnam National University**
 - Major in computer engineering
 - Did some arduino project
 - Handling C, C++, Java, linux
