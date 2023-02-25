@@ -77,7 +77,7 @@ Determining the weakness and strength between two products in different environm
 <figcaption align="center"><b>Fig. 3 - Map of second testing on campus</b></figcaption>
 </p>
 <p align="center">
-<img src="./imgs/second_campus.png"  width="60%" height="30%">
+<img src=".goduck/imgs/second_campus.png"  width="60%" height="30%">
 <figcaption align="center"><b>Fig. 4 - Diagram of second testing on campus</b></figcaption>
 </p>
 </figure>
