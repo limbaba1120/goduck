@@ -55,6 +55,8 @@ Determining the weakness and strength between two products in different environm
 
 <h2> Overview or diagram visual </h2>
 
+<img src="./imgs/goTennaTopology.png"  width="40%" height="30%">
+<img src="./imgs/MeshtasticTopology.png"  width="40%" height="30%" align="right">
 
 
 
