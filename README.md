@@ -1,9 +1,4 @@
 
-Kooky — 2023.02.06. 오전 10:14
-https://purdue-place.gosignmeup.com/public/user/dashboard
-Kooky — 2023.02.21. 오전 10:21
-https://weather.com/weather/today/l/b5745ba268a9778408c75e8ab55be6349846328893e3a2628139bc069dd0a97
-Kooky — 오늘 오후 12:50
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=auto&height=300&section=header&text=GO%20duck!&fontSize=90)
 
 <h2>Team Member :smiley:</h2> 
@@ -14,8 +9,6 @@ Kooky — 오늘 오후 12:50
 README.md
 6KB
 ﻿
-Kooky#2171
-![header](https://capsule-render.vercel.app/api?&type=waving&color=auto&height=300&section=header&text=GO%20duck!&fontSize=90)
 
 <h2>Team Member :smiley:</h2> 
 
