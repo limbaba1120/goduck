@@ -58,17 +58,31 @@ Anlayzing these two mobile mesh networking systems in various scenarios and envi
 
 <p>The networking protocol for goTenna Pro X is called Aspen Grove. Meshtastic networking protocol is based on Radiohead Library.</p>
 
+### Channel Setting
+
+* goTenna Pro X
+
+<img src="./imgs/goTenna_Frequency.png"  width="300" height="300" align="">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="./imgs/goTenna_QRcode.png"  width="200" height="200" align="">
+
+goTenna devices were provided with UHF antennas, we picked up an arbitrary starting point in the given range. It was recommended by the official guide from goTenna to set power output and bandwidth to the maximum value for the optimal performance, and the channel spacing for 11.8 kHz bandwidth to 0.025 MHz. 
+
+* Meshtastic
+
+<img src="./imgs/Meshtastic.png"  width="550" height="300" align="">
+
+The modem settings and number of hops were set on default.
+
 <h2> Environment setting </h2>
 
 We have tested goTenna and Meshtastic in two different environment settings, on a university campus and on a farm. The two different locations highlight the contrast between urban and rural environments. The human populations, buildings, and infrastructure are greater in urban areas. On the other hand, farms are less interfered with radio waves because of fewer structures.
 
-### On campus
+### On campus 🏫
 
 <img src="./imgs/sub_map.PNG"  width="45%" height="250"> <img src="./imgs/n_second_campus.jpg"  width="45%" height="250" align="right">
 
 Additional relay node, P2, was placed in the same parking lot as P1 to verify messages could be sent in the tunnel to other nodes (P3, P4). The fixed endpoints (P1, P4) were in the tunnel and on the roof. Endpoints were connected by the relay node P3, which was positioned inside the building. The new relay node P2 moved from the roof to inside and outside the parking lot.
 
-### On farm
+### On farm 🌲
 
 <img src="./imgs/Farm_Environment.png"  width="45%" height="250"> <img src="./imgs/Farm_environment2.jpeg"  width="45%" height="250" align="right">
 
@@ -87,3 +101,5 @@ In urban area, goTenna showed more reliable message delivery with higher RSSI va
 <img src="./imgs/Result_Farm.png"  width="1000" height="300" align="center">
 
 In rural areas, we found that both devices were able to maintain connectivity at distances greater than 9 km. This demonstrates that with the proper placement of relay nodes, the mesh network can be effectively scaled over long distances.
+
+
