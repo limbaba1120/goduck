@@ -55,43 +55,21 @@ Determining the weakness and strength between two products in different environm
 
 <h2> Overview or diagram visual </h2>
 
-<img src="./imgs/goTennaTopology.png"  width="45%" height="30%"> <img src="./imgs/MeshtasticTopology.png"  width="45%" height="30%" align="right">
+<img src="./imgs/goTennaTopology.png"  width="40%" height="40%"> <img src="./imgs/MeshtasticTopology.png"  width="40%" height="40%" align="right">
 
 <p>The networking protocol for goTenna Pro X is called Aspen Grove. Meshtastic networking protocol is based on Radiohead Library.</p>
 
 <h2> Environment setting </h2>
 
 ### On campus
-<figure>
-<p align="center">
-<img src="./imgs/pre_map.PNG"  width="60%" height="30%">
-<figcaption align="center"><b>Fig. 1 - Map of first testing on campus</b></figcaption>
-</p>
-<p align="center">
-<img src="./imgs/first_campus.png"  width="60%" height="30%">
-<figcaption align="center"><b>Fig. 2 - Diagram of first testing on campus</b></figcaption>
-</p>
-<p align="center">
-<img src="./imgs/sub_map.PNG"  width="60%" height="30%">
-<figcaption align="center"><b>Fig. 3 - Map of second testing on campus</b></figcaption>
-</p>
-<p align="center">
-<img src="./imgs/second_campus.png"  width="60%" height="30%">
-<figcaption align="center"><b>Fig. 4 - Diagram of second testing on campus</b></figcaption>
-</p>
-</figure>
+
+<img src="./imgs/sub_map.PNG"  width="50%" height="50%"> <img src="./imgs/n_second_campus.jpg"  width="40%" height="40%" align="right">
+
+<br><br>
 
 ### On farm
-<p align="center">
-<img src="./imgs/farm_pre_map1.PNG"  width="40%" height="5%">
-<figcaption align="center"><b>Fig. 5 - Map of first testing on farm</b></figcaption>
-</p>
-<p align="center">
-<img src="./imgs/farm_pre_map2.PNG"  width="40%" height="5%">
-<figcaption align="center"><b>Fig. 6 - Map of second testing on farm</b></figcaption>
-</p>
 
-Python 3.9.2
+<img src="./imgs/Farm_environment.jpeg"  width="40%" height="20%"> <img src="./imgs/Farm_environment2.jpeg"  width="40%" height="20%" align="right">
 
 
 
