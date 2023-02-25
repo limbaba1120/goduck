@@ -76,6 +76,14 @@ Additional relay node, P2, was placed in the same parking lot as P1 to verify me
 
 <h2> Result </h2>
 
+### Result on campus
 
+<img src="./imgs/Result_Campus.png"  width="1000" height="300" align="center">
 
+In urban area, goTenna showed more reliable message delivery with higher RSSI values, while Meshtastic had higher receiver sensitivity.
 
+### Result on farm
+
+<img src="./imgs/Result_Farm.png"  width="1000" height="300" align="center">
+
+In rural areas, we found that both devices were able to maintain connectivity at distances greater than 9 km. This demonstrates that with the proper placement of relay nodes, the mesh network can be effectively scaled over long distances.
