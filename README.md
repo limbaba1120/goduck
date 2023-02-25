@@ -55,14 +55,11 @@ Determining the weakness and strength between two products in different environm
 
 <h2> Overview or diagram visual </h2>
 
-<img src="./imgs/goTennaTopology.png"  width="40%" height="30%">
-<img src="./imgs/MeshtasticTopology.png"  width="40%" height="30%" align="right">
+<img src="./imgs/goTennaTopology.png"  width="45%" height="30%"> <img src="./imgs/MeshtasticTopology.png"  width="45%" height="30%" align="right">
 
+<p>The networking protocol for goTenna Pro X is called Aspen Grove. Meshtastic networking protocol is based on Radiohead Library.</p>
 
-
-
-
-
+<h2> Environment setting </h2>
 
 ### On campus
 <figure>
@@ -92,35 +89,6 @@ Determining the weakness and strength between two products in different environm
 <p align="center">
 <img src="./imgs/farm_pre_map2.PNG"  width="40%" height="5%">
 <figcaption align="center"><b>Fig. 6 - Map of second testing on farm</b></figcaption>
-</p>
-
-<h2> Environment setting </h2>
-
-### goTenna
-
-<p align="center">
-<img src="./imgs/goTenna fig.png"  width="40%" height="60%">
-<figcaption align="center"><b>Fig. 7 - goTenna Pro X device</b></figcaption>
-</p>
-<p>
-Hardware : goTenna Pro X  
-</p>
-<p>
-Software : goTenna Pro application
-</p>
-
-
-### Meshtastic/
-
-<p align="center">
-<img src="./imgs/mesh log.png"  width="40%" height="60%">
-<figcaption align="center"><b>Fig. 8 - Meshtastic device and log</b></figcaption>
-</p>
-<p>
-Hardware : LILYGO TTGO T-BEAM v1.1   
-</p>
-<p>
-Software : Meshtastic Firmware 2.0.21.83e6cea Alpha
 </p>
 
 Python 3.9.2
