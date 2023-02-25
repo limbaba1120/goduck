@@ -54,7 +54,7 @@ Anlayzing these two mobile mesh networking systems in various scenarios and envi
 
 <h2> Overview or diagram visual </h2>
 
-<img src="./imgs/goTennaTopology.png"  width="45%" height="40%"> <img src="./imgs/MeshtasticTopology.png"  width="45%" height="40%" align="right">
+<img src="./imgs/goTennaTopology.png"  width="45%" height="50%"> <img src="./imgs/MeshtasticTopology.png"  width="45%" height="50%" align="right">
 
 <p>The networking protocol for goTenna Pro X is called Aspen Grove. Meshtastic networking protocol is based on Radiohead Library.</p>
 
