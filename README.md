@@ -65,30 +65,30 @@ Determining the weakness and strength between two products in different environm
 ### On campus
 <figure>
 <p align="center">
-<img src="./code/imgs/pre_map.PNG"  width="60%" height="30%">
+<img src="./imgs/pre_map.PNG"  width="60%" height="30%">
 <figcaption align="center"><b>Fig. 1 - Map of first testing on campus</b></figcaption>
 </p>
 <p align="center">
-<img src="./code/imgs/first_campus.png"  width="60%" height="30%">
+<img src="./imgs/first_campus.png"  width="60%" height="30%">
 <figcaption align="center"><b>Fig. 2 - Diagram of first testing on campus</b></figcaption>
 </p>
 <p align="center">
-<img src="./code/imgs/sub_map.PNG"  width="60%" height="30%">
+<img src="./imgs/sub_map.PNG"  width="60%" height="30%">
 <figcaption align="center"><b>Fig. 3 - Map of second testing on campus</b></figcaption>
 </p>
 <p align="center">
-<img src="./code/imgs/second_campus.png"  width="60%" height="30%">
+<img src="./imgs/second_campus.png"  width="60%" height="30%">
 <figcaption align="center"><b>Fig. 4 - Diagram of second testing on campus</b></figcaption>
 </p>
 </figure>
 
 ### On farm
 <p align="center">
-<img src="./code/imgs/farm_pre_map1.PNG"  width="40%" height="5%">
+<img src="./imgs/farm_pre_map1.PNG"  width="40%" height="5%">
 <figcaption align="center"><b>Fig. 5 - Map of first testing on farm</b></figcaption>
 </p>
 <p align="center">
-<img src="./code/imgs/farm_pre_map2.PNG"  width="40%" height="5%">
+<img src="./imgs/farm_pre_map2.PNG"  width="40%" height="5%">
 <figcaption align="center"><b>Fig. 6 - Map of second testing on farm</b></figcaption>
 </p>
 
@@ -97,7 +97,7 @@ Determining the weakness and strength between two products in different environm
 ### goTenna
 
 <p align="center">
-<img src="./code/imgs/goTenna fig.png"  width="40%" height="60%">
+<img src="./imgs/goTenna fig.png"  width="40%" height="60%">
 <figcaption align="center"><b>Fig. 7 - goTenna Pro X device</b></figcaption>
 </p>
 <p>
@@ -111,7 +111,7 @@ Software : goTenna Pro application
 ### Meshtastic/
 
 <p align="center">
-<img src="./code/imgs/mesh log.png"  width="40%" height="60%">
+<img src="./imgs/mesh log.png"  width="40%" height="60%">
 <figcaption align="center"><b>Fig. 8 - Meshtastic device and log</b></figcaption>
 </p>
 <p>
