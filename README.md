@@ -69,7 +69,7 @@ Determining the weakness and strength between two products in different environm
 
 ### On farm
 
-<img src="./imgs/Farm_environment.jpeg"  width="40%" height="20%"> <img src="./imgs/Farm_environment2.jpeg"  width="40%" height="20%" align="right">
+<img src="./imgs/Farm_environment.jpeg"  width="50%" height="10%"> <img src="./imgs/Farm_environment2.jpeg"  width="40%" height="5%" align="right">
 
 
 
